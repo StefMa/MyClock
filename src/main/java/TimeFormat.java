@@ -1,0 +1,3 @@
+public enum TimeFormat {
+    GERMAN, AMERICAN, GERMAN_WITH_DATE, AMERICAN_WITH_DATE
+}
